@@ -4,8 +4,7 @@
  Cara Membuat Form Registrasi/Sign Up
 
 # Name Files : index.html
-A Code :
-<code> <!DOCTYPE html>
+A Code : <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -89,10 +88,9 @@ A Code :
     </div>
 </body>
 </html>
-</code>
 
 # 2 Name Files : proses_pendaftaran.php
-Code : <code> <?php
+Code : <?php
 // Cek apakah form telah disubmit
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Ambil data dari formulir
@@ -120,10 +118,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     exit; // Penting: pastikan untuk keluar setelah redirect
 }
 ?>
-</code>
 
 # 3 Name Files : sukses.php
-Code : <code> <!DOCTYPE html>
+Code : <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -133,10 +130,9 @@ Code : <code> <!DOCTYPE html>
 <body>
     <h1>Pendaftaran Berhasil</h1>
     <p>Terima kasih telah mendaftar!</p>
-    <!-- Anda bisa tambahkan link atau konten lainnya di sini -->
+    <More Content>
 </body>
 </html>
-</code>
 
 # 4 Name Files : data_pendaftaran.txt ( To Check or Automatically Save Registration Data ) , ( Untuk Mengecek Atau Simpan Otomatis Data-Data Pendaftaran )
 
