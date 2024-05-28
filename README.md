@@ -140,6 +140,4 @@ Code : <code> <!DOCTYPE html>
 
 # 4 Name Files : data_pendaftaran.txt ( To Check or Automatically Save Registration Data ) , ( Untuk Mengecek Atau Simpan Otomatis Data-Data Pendaftaran )
 
-Untuk Bagian <code> </code> Hapus Saja
-
-For the <code> </code> section, just delete it
+Follow For More Code
